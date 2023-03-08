@@ -8,6 +8,39 @@ body {
   line-height: 1.4;
 }
 
+.title {
+  color: #47bded;
+  font-size: 18px;
+  margin: 20px
+}
+
+table {
+  width: 50vw;
+  background-color: #26262a;
+}
+
+table, tr, td {
+  border: solid #333333;
+  margin: 20px;
+}
+
+tr, th, td {
+  padding: 5px;
+}
+
+thead {
+  font-weight: bolder;
+}
+
+.path {
+  text-align: start;
+}
+
+.visits {
+  width: 100px;
+  text-align: center;
+}
+
 .expand { height: 100%; }
 
 a {
